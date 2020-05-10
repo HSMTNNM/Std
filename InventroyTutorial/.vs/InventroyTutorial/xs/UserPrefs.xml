@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{B6FBED81-EEA1-0A77-B3F7-BE20E559F15E}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MoveBag.cs">
+    <Files>
+      <File FileName="Assets/Inventory/InventoryScript/Slot.cs" Line="15" Column="6" />
+      <File FileName="Assets/Inventory/InventoryScript/InventoryManager.cs" Line="55" Column="73" />
+      <File FileName="Assets/Inventory/InventoryScript/Item.cs" Line="11" Column="25" />
+      <File FileName="Assets/Inventory/InventoryScript/ItemOnWorld.cs" Line="27" Column="44" />
+      <File FileName="Assets/Inventory/InventoryScript/Inventory.cs" Line="8" Column="23" />
+      <File FileName="Assets/Inventory/InventoryScript/ItemOnDrag.cs" Line="30" Column="72" />
+      <File FileName="Assets/Scripts/MoveBag.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="InventroyTutorial" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Inventory" expanded="True">
+                <Node name="InventoryScript" expanded="True" />
+              </Node>
+              <Node name="Scripts" expanded="True">
+                <Node name="MoveBag.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a200f571-99b5-42f3-ad9f-419a6159dfb4" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Unity.2D.Tilemap.Extras PreferredExecutionTarget="4a3022cd-3a64-4848-80a2-328175aebf8b" />
+</Properties>
